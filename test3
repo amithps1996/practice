@@ -2,5 +2,9 @@ checking from the GUI
 git checkout 
 this is the third line
 this is the fourth line
+<<<<<<< HEAD
 git checkout
 checkout for the merge from the terminal
+=======
+this is the last line of the file
+>>>>>>> bd645c1 (changed the last commit message)
